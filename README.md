@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there I'm Justine!
 
 <!--
 **justinele19/justinele19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,3 +29,4 @@ Languages: ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-b
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![snake gif](https://github.com/justinele19/justinele19/blob/output/github-snake-dark.svg)
