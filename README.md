@@ -1,4 +1,4 @@
-## Hi there I'm Justine!
+## Hi! I'm Justine Le!
 
 <!--
 **justinele19/justinele19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
