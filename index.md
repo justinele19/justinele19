@@ -20,10 +20,8 @@ Here are some ideas to get you started:
 # 💫 About Me:
 I'm currently pursing a computer science major. My favorite programming language is C++. Outside of coding I enjoy spending my times outdoors, reading a good book, and hanging out with my family and friends. Here's are some pictures of my dog and my Aunt's dog!
 
-![picture of my dog, Nyx] 
-(assests/images/nyx.jpeg)
-![picture of my aunt's dog, Sushi] 
-(assests/images/sushi.jpeg)
+![picture of my dog, Nyx](assets/images/nyx.jpeg)
+![picture of my aunt's dog, Sushi](assets/images/sushi.jpeg)
 
 If you want to learn more about me, here is the link to section: [Fun Fact!](#fun-fact!)
 
