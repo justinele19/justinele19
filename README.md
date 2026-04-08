@@ -1,6 +1,7 @@
 ### Justine's User Page
 
-## Hi! I'm Justine Le! ![GitHub Page](https://justinele19.github.io/justinele19/)
+## Hi! I'm Justine Le! !
+[GitHub Page](https://justinele19.github.io/justinele19/)
 
 # 💫 About Me:
 I'm currently pursing a computer science major.
