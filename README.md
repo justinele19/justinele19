@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-I'm currently pursing a computer science major.
+I'm currently pursing a computer science degree.
 
 
 ## 🌐 Socials:
