@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-I'm currently pursing a computer science degree.
+Hi! I'm currently pursing a computer science degree at UCSD and enjoy doing what challenges me!
 
 
 ## 🌐 Socials:
